@@ -1,9 +1,4 @@
-h1 {
 
-    color: bisque;
-    font font-family: Impact, "Helvetica Neue", Helvetica, sans-serif;;
-
-}
 
 .nav {
 
@@ -17,14 +12,6 @@ width: 50vw;
 margin: auto;
 
 text-align: center;
-
-
-
-
-
-
-
-
 }
 
 .nav>li {
@@ -32,8 +19,6 @@ text-align: center;
     display: inline-block;
 
     border-style: outset;
-
-
 }
 
 .nav>li>a {
